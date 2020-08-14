@@ -1,7 +1,15 @@
 # ACNH_Chat_Clientとは
+
+![GUI見本](https://cdn.discordapp.com/attachments/593485514301243413/743777242261225472/gui_preview.png)
+
 「あつまれ どうぶつの森」の非公開APIにアクセスし、特定のフレンドやフレンド全員にメッセージを送れるpythonのGUIプログラムです。
 勢いで書いたので雑なのは許して...
 [acnh_info_edited.py](acnh_info_edited.py)はxSke氏の[この](https://gist.github.com/xSke/8a4f06f9499a17b3e28cedfc094f57ca)スクリプトを現在のバージョンでも動作するように少しだけ書き換えたものです(でもぶっちゃけほぼコピペです、勝手に使って申し訳ない...)
+# 改変について
+[acnh_chat_gui.py](acnh_chat_gui.py)はMIT Licenseです。自由に改変して使っていただいて構いません。
+私自身、GUIの見た目やプログラムの改善点など沢山あると思っているのでプルリク大歓迎です。
+[acnh_info_edited.py](acnh_info_edited.py)はxSke氏が書いた物が元なので何とも言えません...
+もし、このプログラムが消えてたら察してください😇
 # つかいかた
 1. pythonのライブラリをインストールします
 
