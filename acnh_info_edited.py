@@ -166,8 +166,8 @@ def login_switch_web(id_token, nintendo_profile):
         }
     }, headers={
         "Content-Type": "application/json; charset=utf-8",
-        "User-Agent": "com.nintendo.znca/1.8.0 (Android/7.1.2)",
-        "X-ProductVersion": "1.8.0",
+        "User-Agent": "com.nintendo.znca/1.9.0 (Android/7.1.2)",
+        "X-ProductVersion": "1.9.0",
         "X-Platform": "Android"
     })
 
